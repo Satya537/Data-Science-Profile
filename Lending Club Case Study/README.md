@@ -28,4 +28,4 @@
 
 
 ## Contact
-Created by [@Satya537] - feel free to contact me at satyajit.mahapatra123@gmail.com, rajanraju25@gmail.com
+Created by [@Satya537, @Rajan25] - feel free to contact me at satyajit.mahapatra123@gmail.com, rajanraju25@gmail.com
