@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* Data Understanding, Univariate, Segmented Univariate and Bivariate Analysis of laon feature data.
+* Data Understanding, Univariate, Segmented Univariate and Bivariate Analysis of loan feature data.
 * Python, Microsoft Excel
 * Identified six factors which impact the repayment ability of the loan.
 
@@ -17,6 +17,7 @@
 - Higher is the interest rate, higher are the chances of loan default.
 - Longer is the loan term, higher are the chances of loan default. 
 - Higher is the dti, higher are the chances of loan default.
+- Higher is the alphabet value of the loan, higher is the probability of default.
 
 ## Technologies Used
 - Python - version 1.1.3
