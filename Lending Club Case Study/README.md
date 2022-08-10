@@ -24,7 +24,6 @@
 - matplotlib - version 3.3.2
 
 ## Acknowledgements
-Give credit here.
 - This project was developed as part of the master's program at IIIT B and LJMU. 
 
 
