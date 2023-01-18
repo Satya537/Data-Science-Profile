@@ -1,14 +1,7 @@
 
 
 # Project Name
-> Outline a brief description of your project.
-
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+> This project seeks to use CNN to create a neural network architecture to identify various types of melanoma provided various sample images. 
 
 ## General Information
 Problem statement: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. 
